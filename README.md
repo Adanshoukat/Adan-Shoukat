@@ -12,7 +12,7 @@ An enthusiastic Artificial Intelligence student passionate about Machine Learnin
 ---
 
 ###  Featured Projects
-1. **Campus Scholar Checker:** An automated scholarship eligibility evaluation tool.
+1. **Scholarship Eligibility Checker** An automated scholarship eligibility evaluation tool.
 2. **Crop Yield Estimator:** A machine learning model to predict agricultural crop yields.
 3. **Digit Recognizer App:** A computer vision model deployed on Hugging Face Spaces.
 
